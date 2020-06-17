@@ -1,6 +1,19 @@
-# hola_darwin
+# APP EJEMPLOS DE USOS DE VARIOS COMPONENTES EN APP FLUTTER
 
-A new Flutter project.
+Proyecto Nuevo Flutter.
+
+## Pantallas del sistemas 
+[Pantalla Inicial](https://github.com/darwinuzcategui/APP-COMPONENTES-FLUTTER/blob/master/pantallas/Screenshot_20200616-085027.png "Pantalla Principal")
+
+[Pantalla de Alerta](https://github.com/darwinuzcategui/APP-COMPONENTES-FLUTTER/blob/master/pantallas/Screenshot_20200616-085032.png "Pantalla Alerta")
+
+[Pantalla 3](https://github.com/darwinuzcategui/APP-COMPONENTES-FLUTTER/blob/master/pantallas/Screenshot_20200616-085035.png "Pantalla 3")
+
+[Pantalla 4](https://github.com/darwinuzcategui/APP-COMPONENTES-FLUTTER/blob/master/pantallas/Screenshot_20200616-085101.png "Pantalla 4")
+
+[Pantalla 5](https://github.com/darwinuzcategui/APP-COMPONENTES-FLUTTER/blob/master/pantallas/Screenshot_20200616-085110.png "Pantalla 5")
+
+
 
 ## Getting Started
 
