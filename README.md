@@ -13,6 +13,13 @@ Proyecto Nuevo Flutter.
 
 ![Pantalla 5](https://github.com/darwinuzcategui/APP-COMPONENTES-FLUTTER/blob/master/pantallas/Screenshot_20200616-085110.png "Pantalla 5")
 
+![Pantalla 6](https://github.com/darwinuzcategui/APP-COMPONENTES-FLUTTER/blob/master/pantallas/Screenshot_20200616-085131.png "Pantalla 6")
+
+![Pantalla 7](https://github.com/darwinuzcategui/APP-COMPONENTES-FLUTTER/blob/master/pantallas/Screenshot_20200616-085146.png "Pantalla 7")
+
+![Pantalla 8](https://github.com/darwinuzcategui/APP-COMPONENTES-FLUTTER/blob/master/pantallas/Screenshot_20200616-085155.png "Pantalla 8")
+
+
 
 
 ## Getting Started
